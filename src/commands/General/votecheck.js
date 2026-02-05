@@ -18,7 +18,7 @@ module.exports = {
       const userId = message.author.id;
       
       // API token
-      const apiToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0IjoxLCJpZCI6IjEyMzQ1OTI1MzkzMjQwNTk3MDkiLCJpYXQiOjE3NDUyMDU2MjJ9.M11ZwPs_r7nUPWH1HNOXiLkX1HJNMIzfCPYnkqwehaU";
+      const apiToken = "";
       
       // Initial response
       const sent = await message.reply({ content: "Checking your vote status..." });
