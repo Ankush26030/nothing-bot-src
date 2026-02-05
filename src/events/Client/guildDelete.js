@@ -1,6 +1,6 @@
 const { EmbedBuilder, ChannelType, WebhookClient } = require('discord.js');
 const moment = require('moment');
-const web = new WebhookClient({url : `https://discord.com/api/webhooks/1365059785736720514/GyUfXhkPs_eEhd-a2wZBeVYCTcNo7XKhH0EF3VGZ1amyaP7qvVZhOhCvhpS_pXn3BlWy`});
+const web = new WebhookClient({url : ``});
 
 module.exports = {
   name: "guildDelete",
