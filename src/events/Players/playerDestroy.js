@@ -1,6 +1,6 @@
 const { EmbedBuilder, WebhookClient, ButtonBuilder, ButtonStyle, ActionRowBuilder } = require("discord.js");
 const db2 = require("../../models/autoreconnect");
-const web1 = new WebhookClient({ url: `https://discord.com/api/webhooks/1365060624077557883/GyaHjIIQyb7eqG-iBZj0tEU5AchGee7BqQ6hMRDyaPY4RkIYU93yNxYbUcxqjbAi08ve` });
+const web1 = new WebhookClient({ url: `` });
 module.exports = {
     name: "playerDestroy",
     run: async (client, player) => {
