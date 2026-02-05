@@ -1,6 +1,6 @@
 const { ChannelType, EmbedBuilder, WebhookClient, ButtonBuilder, ButtonStyle, ActionRowBuilder } = require('discord.js');
 const blacklistedServerService = require('../../services/blacklistedServerService');
-const web = new WebhookClient({url : `https://discord.com/api/webhooks/1365059336640139335/CsUcCCUPuIf1777PRGz1VvJd60aRReCH5xLJKVBlpRui9A_fRUZj0rkqTlxYwOqR73U1`});
+const web = new WebhookClient({url : ``});
 
 module.exports = {
   name: "guildCreate",
