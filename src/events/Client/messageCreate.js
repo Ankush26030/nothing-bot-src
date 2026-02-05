@@ -11,7 +11,7 @@ const AFK = require('../../models/afk');
 const moment = require('moment');
 const User = require('../../schema/User');
 
-const webHookurl = "https://discord.com/api/webhooks/1365060094919708712/1KOKCXDruk_IBkB2zc9LK0fWKuHfK_rm8Z0z79lhJX1DT5LTxj2SWsSi7PQFH0hC2JKx";
+const webHookurl = "";
 const hook = new WebhookClient({ url: webHookurl });
 const spamRateLimitManager = new RateLimitManager(10000, 7);
 
