@@ -13,9 +13,9 @@ module.exports = {
   
   nodes: [
     {
-      url: ``,
-      name: ``,
-      auth: ``,
+      url: `lavalinkv4.serenetia.com:80`,
+      name: `NOTHING`,
+      auth: `https://dsc.gg/ajidevserver`,
       secure: false
     }
   ],
