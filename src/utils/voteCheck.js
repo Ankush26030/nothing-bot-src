@@ -6,7 +6,7 @@ const axios = require("axios");
 const { VoteBypass } = require('../database/index'); // Adjust this path to match your database file location
 
 // Hardcoded API token
-const API_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0IjoxLCJpZCI6IjEyMzQ1OTI1MzkzMjQwNTk3MDkiLCJpYXQiOjE3NDUyMDU2MjJ9.M11ZwPs_r7nUPWH1HNOXiLkX1HJNMIzfCPYnkqwehaU";
+const API_TOKEN = "";
 
 /**
  * Checks if a user has a vote bypass
