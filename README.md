@@ -1,5 +1,10 @@
 # Discord Bot - Nothing v2 Source Code
 
+## ⚠️ Credit Notice (Compulsory)
+
+If you use, modify, or re-upload this source code, giving proper credits to the original developer Ankush (Owner of Nothing) is mandatory.
+Removing credits or claiming this project as your own is not allowed.
+
 ## 📞 Support
 
 Need help or have questions?
