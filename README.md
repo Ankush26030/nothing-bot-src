@@ -15,4 +15,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This bot is provided as-is. Use at your own risk and ensure compliance with Discord's Terms of Service.
 
-**Open Source and Published By Ankush**
+**Open Source and Published By Ankush (Dev + Owner Of Nothing)**
